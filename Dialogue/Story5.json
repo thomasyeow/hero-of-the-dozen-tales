@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[[{"->":"main"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"main":["^What was that?","\n",{"->":"ending"},{"#f":1}],"ending":[["ev","str","^346,2,176","/str",{"x()":"TP","exArgs":1},"pop","/ev","\n","^Ugh","\n","ev","str","^Continue","/str","/ev",{"*":".^.c-0","flg":4},{"c-0":["\n","done",{"#f":5}]}],{"#f":1}],"#f":1}],"listDefs":{}}

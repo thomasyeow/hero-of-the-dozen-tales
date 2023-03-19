@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[["^Oh no! They're eating this guy! I have to help him!","\n","ev","str","^Continue","/str","/ev",{"*":"0.c-0","flg":4},{"c-0":["\n",{"->":"0.g-0"},{"#f":5}],"g-0":["done",{"#f":5}]}],"done",{"#f":1}],"listDefs":{}}
